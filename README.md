@@ -15,7 +15,7 @@
 
 - 💬 Ask me about Anything *Tech* Related
 
-- ⚡ passionate to work on Designs 
+- ⚡ passionate to work on *Designs* 
 
 <h1></h1>
 
