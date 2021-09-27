@@ -29,7 +29,7 @@
         <img src="https://raw.githubusercontent.com/Rohit19060/Rohit19060/main/assets/images/Instagram.svg" alt="Instagram" width="60px" /></a>
     <a href="https://twitter.com/prerna.bhavsar" title="Twitter">
         <img src="https://raw.githubusercontent.com/Rohit19060/Rohit19060/main/assets/images/Twitter.svg" alt="Twitter" width="60px" /></a>
- <a href="https://www.linkedin.com/in/PrernaBhavsar99/" title="LinkedIn">
+ <a href="https://www.linkedin.com/in/prerna-bhavsar2018" title="LinkedIn">
         <img src="https://raw.githubusercontent.com/Rohit19060/Rohit19060/main/assets/images/Linkedin.svg" alt="LinkedIn" width="60px" /></a>
 </p>
 <p align="center"><a href="https://github.com/PrernaBhavsar99?tab=repositories" title="Profile">
