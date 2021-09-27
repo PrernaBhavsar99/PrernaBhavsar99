@@ -23,13 +23,12 @@
 <h2 align="center">🌟 Socials 🌟</h2>
 
 <p align="center">
-    <a href="mailto:rohitjain19060@gmail.com?subject=Hi%20from%20Github" title="Gmail">
+    <a href="mailto:prerna.bhavsar2018@gmail.com?subject=Hi%20from%20Github" title="Gmail">
         <img src="https://raw.githubusercontent.com/Rohit19060/Rohit19060/main/assets/images/Gmail.svg" alt="Gmail" width="75x" /></a>
-    <a href="https://www.instagram.com/king_rohit_jain/" title="Instagram">
+    <a href="https://www.instagram.com/prerna.bhavsar/" title="Instagram">
         <img src="https://raw.githubusercontent.com/Rohit19060/Rohit19060/main/assets/images/Instagram.svg" alt="Instagram" width="60px" /></a>
-    <a href="https://twitter.com/Rohit_Jain19060" title="Twitter">
+    <a href="https://twitter.com/prerna.bhavsar" title="Twitter">
         <img src="https://raw.githubusercontent.com/Rohit19060/Rohit19060/main/assets/images/Twitter.svg" alt="Twitter" width="60px" /></a>
-
  <a href="https://www.linkedin.com/in/PrernaBhavsar99/" title="LinkedIn">
         <img src="https://raw.githubusercontent.com/Rohit19060/Rohit19060/main/assets/images/Linkedin.svg" alt="LinkedIn" width="60px" /></a>
 </p>
